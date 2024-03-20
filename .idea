@@ -1,0 +1,80 @@
+easy language 
+no lexing
+
+everything is a function
+
+i think thats functional programming
+
+no operator precendences, braces only
+
+bring your own variables!µwu
+
+alles ist 1 byte ... .. .. .. .. . . arbitrary len arithmatic
+
+
+
+
+assignment + init
+var_name: (25423232)int
+
+
+
+we need strings / arrays
+
+??? macht string zu char (ascii value) ???
+(string)ascii_array
+
+
+
+operators
+
+(x y)add
+(x y)sub
+(x y)mul
+(x y)div
+
+(x y)eq
+
+(x y)gth
+(x y)geq
+(x y)lth
+(x y)leq
+
+??? shifting ???
+(x y)lsh
+(x y)rsh
+(x y)and
+(x y)or
+(x y)xor
+
+(x y)land
+(x y)lor
+(x)not
+
+(x)if:
+    tabs only intend
+()else:
+
+
+(x)while:
+
+(x)do_while:
+
+
+
+new_function:
+    like this
+
+()new_function
+
+(param param)func:
+
+(a b)func
+
+but there is no wheel
+4 free that is good
+
+
+
+
+
